@@ -7,7 +7,7 @@
 
 
 # api data
-/src/Requests.js
+src/Requests.js
 
 # testing
 /coverage
