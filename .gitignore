@@ -5,9 +5,6 @@
 .pnp.js
 
 
-# api data
-/src/Requests.js
-
 # testing
 /coverage
 
