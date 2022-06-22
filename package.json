@@ -1,5 +1,4 @@
 {
-  
   "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
@@ -44,7 +43,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
-    "gh-pages": "^4.0.0",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.3"
   }
